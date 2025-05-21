@@ -40,4 +40,8 @@ Every time someone types, the server broadcasts that message to all subscribers 
 Since both sides still agree on port 8080, everything continues to function exactly as before.
 
 
+# Small changes, add IP and Port
 
+![alt text](img/image3.png)
+
+When you run multiple clients on the same machine, it’s helpful to see at a glance which terminal printed each incoming line. Adding a static prefix makes that obvious.
