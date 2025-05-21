@@ -33,6 +33,11 @@ All connected clients will print:
 Every time someone types, the server broadcasts that message to all subscribers via the broadcast channel, and each client’s select‐loop picks it up and prints it out.
 
 
+# Modifying port
+
+![alt text](img/image2.png)
+
+Since both sides still agree on port 8080, everything continues to function exactly as before.
 
 
 
